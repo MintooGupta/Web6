@@ -1,0 +1,136 @@
+First Page HTML5:
+
+Audio
+Video,
+Inputs (email, week, month, datetime, color, tel, number, range, url, date, datettimelocal, search)
+
+Attributes (autocomplete, autofocus, form, formaction, formenctype, formmethod, formnovalidate
+formtarget, height and width, list, min and max
+multiple, pattern, placeholder, required, step)
+Canvas
+SVG
+Map
+Drag Drop
+Storage
+Embed
+
+
+Second Page CSS3:
+
+Box shadow
+Text shadow
+Border-redus
+Border-Image
+Background size, orizin, clip,
+Gradients (linear, radial)
+Add fonts
+Transform (translate() rotate() scale() skewX() skewY() matrix())
+@keyframes (animation)
+column count
+Box Sizing
+Flexbox
+Resizer
+@media
+
+
+Third Page Bootstrap:
+Button
+Alerts
+Icons
+Slider
+Tab
+Well
+Budges
+Progressbar
+Pager
+List group
+Panel
+Dropdown
+Collapse
+Form
+Tooltip
+Scrollspy
+Crousal
+Responsive
+
+
+Third Page Bootstrap:
+Hide()
+show()
+toggle()
+fadeIn()
+fadeOut()
+fadeToggle()
+fadeTo(opicity)
+Slide (up, down)
+animation ()
+stop ()
+callback ()
+channing ()
+Get()
+Set()
+Add ()
+Remove ()
+css()
+Dimension ()
+Traversing ()
+Ancestors ()
+Descrndants ()
+Siblings ()
+Filterin ()
+no.Confilict ()
+
+
+Forth Page Javascript:
+Array()
+Loops (for, while, do while, for each)
+Form Validation()
+Methods ()
+Creating table as loops
+Javascript all function and methods
+
+
+
+Some Importent thing :
+Ajax ()
+Load ()
+Fontawoson
+Loder ()
+Cowsprit ()
+CSS tringle
+Add some mobile temple from bootstrap for menu as mobile
+Shivehtml
+modernizer
+JSON
+
+how to work in w3school
+
+1. use all the event and array in all websites.
+2. Use form poptip on click
+3. Use 
+
+
+
+
+
+
+
+We use HTML5-2014, CSS32014, Javascript 1.8.5, Juqery 1.9.1, dreamview 6, sublime 3, photoshop5, w3 validtor, jslint for json. ieTester.
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
